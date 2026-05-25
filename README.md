@@ -80,7 +80,7 @@ The system is a **microservices architecture** built primarily with **Spring Boo
 ### 📥 Clone the Repository
 
 ```bash
-git clone git@github.com:leetjourney/home-energy-tracker.git
+git clone <repository-url>
 cd home-energy-tracker
 ```
 
