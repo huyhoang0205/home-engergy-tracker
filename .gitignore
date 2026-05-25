@@ -1,0 +1,4 @@
+volume-data/
+docker/
+influxdb_data/
+.vscode
